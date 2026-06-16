@@ -163,4 +163,3 @@ Completed.
 * ERC passed with 0 errors
 * DRC passed with 0 errors
 * 3D board preview generated
-
